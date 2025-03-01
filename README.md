@@ -21,6 +21,8 @@
 
 📝 Descripción
   Pipex sumula la ejecución de | en bash, esta herramienta nos ayuda a combinar diferentes comando enlazando los resultados como si de una tubería se tratase.
+  He realizado un esquema del funcionamiento de mi rpograma que puede ayudarte a comprender como funciona: 📄 [Ver documento PDF](./esquema_emilgarc_pipex.pdf)
+
 
 🔧 Proyecto desarrollado en el marco de 42 Málaga.
 
