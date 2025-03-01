@@ -1,4 +1,4 @@
-🚀 Pipex
+*Hola soy Emilio y este es mi 🚀 Pipex*
 🔗 Recreación del comportamiento de la tubería (|) en Bash
 
 🛠 Compilación
