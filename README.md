@@ -3,8 +3,8 @@
 🔗 Recreación del comportamiento de la tubería (|) en Bash
 
 📝 Descripción
-  Pipex sumula la ejecución de | en bash, esta herramienta nos ayuda a combinar diferentes comandos enlazando los resultados como si de una tubería se tratase.
-  He realizado un esquema del funcionamiento de mi rpograma que puede ayudarte a comprender como funciona: 📄 [Ver documento PDF](./esquema_emilgarc_pipex.pdf)
+  Pipex simula la ejecución de | en bash, esta herramienta nos ayuda a combinar diferentes comandos enlazando los resultados, como si de una tubería se tratase.
+  He realizado un esquema del funcionamiento de mi programa que puede ayudarte a comprender como funciona: 📄 [Ver esquema PDF](./esquema_emilgarc_pipex.pdf)
 
 
 
